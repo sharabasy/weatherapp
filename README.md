@@ -1,4 +1,6 @@
 # Weather App
+## Features :
+- Get the temperature and humidity and description of the weather for any city .
 ## Performance [Report](https://pagespeed.web.dev/)
 1. on Desktop
 ![image](https://github.com/user-attachments/assets/4e375fd1-4c1e-4d7d-aa98-58e377e4ed2c)
