@@ -21,7 +21,7 @@ class App extends Component{
     e.preventDefault();
     let city = e.target.elements.city.value;
     let country = e.target.elements.country.value;
-    const apiURL = await fetch(`http://api.openweathermap.org/data/2.5/weather?q=${city}%2C${country}&appid=${apiKey}`);
+    const apiURL = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}%2C${country}&appid=${apiKey}`);
     const data = await apiURL.json();
      
     if(city && country){

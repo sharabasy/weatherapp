@@ -11,6 +11,7 @@ body{
   background: linear-gradient(#4CBB99, #13496A);
   width: 100%;
   height: 100vh;
+  padding: 20px 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -18,7 +19,6 @@ body{
 
 .form-content{
   width: 70%;
-  height: 70vh;
   background: linear-gradient(#4CBB99, #13496A);
   border: 2px inset #ddd;
   border-radius: 15px;
@@ -72,7 +72,6 @@ button{
   font-weight: 400;
   font-size: 15px;
   padding: 30px 0;
-
 }
 
 .key{
@@ -94,4 +93,41 @@ h1{
   color: #ffffff;
   border: 4px ridge #ffffff;
   letter-spacing: 7px;
+}
+
+@media screen and (max-width: 768px){
+  .form-content{
+    width: 90%;
+  }
+
+  button{
+    width: 100%;
+  }
+
+  h1{
+    font-size: 30px;
+  }
+
+  .weather{
+    font-size: 12px;
+  }
+
+  .key{
+    font-size: 12px;
+  }
+
+  .value{
+    font-size: 12px;
+  }
+
+  input[type='text']{
+    font-size: 15px;
+  }
+
+  input[type='text']::placeholder{
+    font-size: 15px;
+  }
+
+  
+  
 }
