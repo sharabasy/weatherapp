@@ -7,7 +7,7 @@
 2. on Mobile
 ![image](https://github.com/user-attachments/assets/10bf73b0-2dee-415f-b6d8-ffdfe18cf562)
 ## Getting Started
-### Debloyed at [Vercel](https://weatherapp-rho-rosy.vercel.app/)
+### Deployed at [Vercel](https://weatherapp-rho-rosy.vercel.app/)
 
 Follow these steps to run the project locally:
 
