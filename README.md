@@ -1,7 +1,7 @@
 # Weather App
 ## Features :
 - Get the temperature and humidity and description of the weather for any city .
-- 
+  
 ## Deployed at [Vercel](https://weatherapp-rho-rosy.vercel.app/)
 
 ## Performance [Report](https://pagespeed.web.dev)
