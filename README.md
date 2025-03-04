@@ -1,14 +1,17 @@
 # Weather App
 ## Features :
 - Get the temperature and humidity and description of the weather for any city .
-## Performance [Report](https://pagespeed.web.dev/analysis/https-weatherapp-rho-rosy-vercel-app/gjuhcf3ibp?form_factor=mobile)
+## Performance [Report](https://pagespeed.web.dev)
 1. on Desktop
-![image](https://github.com/user-attachments/assets/4e375fd1-4c1e-4d7d-aa98-58e377e4ed2c)
-2. on Mobile
-![image](https://github.com/user-attachments/assets/10bf73b0-2dee-415f-b6d8-ffdfe18cf562)
-## Getting Started
+[![Desktop Performance Report](https://github.com/user-attachments/assets/efa44fe7-a0f9-40ca-827c-7fcc0002c131)](https://pagespeed.web.dev/analysis/https-weatherapp-rho-rosy-vercel-app/5xxrt2ctvi?form_factor=desktop)
+![image](https://github.com/user-attachments/assets/efa44fe7-a0f9-40ca-827c-7fcc0002c131)
+3. on Mobile
+[![Mobile Performance Report](https://github.com/user-attachments/assets/cd3c910c-16b7-401e-b296-ea6b037a2fc9)](https://pagespeed.web.dev/analysis/https-weatherapp-rho-rosy-vercel-app/5xxrt2ctvi?form_factor=mobile)
+![image](https://github.com/user-attachments/assets/cd3c910c-16b7-401e-b296-ea6b037a2fc9)
+
 ### Deployed at [Vercel](https://weatherapp-rho-rosy.vercel.app/)
 
+## Getting Started
 Follow these steps to run the project locally:
 
 1. Clone the repository:
